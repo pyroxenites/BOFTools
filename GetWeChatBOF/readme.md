@@ -4,4 +4,4 @@
 
 > 仅支持3.9.6.33版本的偏移
 
-![get](png\get.png)
+![](png/get.png)
